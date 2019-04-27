@@ -1,2 +1,2 @@
-# devdinos.com
-Personal website https://devdinos.com
+# dinostheo.dev
+Personal website https://dinostheo.dev
